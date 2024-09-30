@@ -571,7 +571,7 @@ while x == 1:
                         print("1 simple fragment (10%)")
                         print("")
                         print("---------------------------------------------------------------------------------")
-                        simple_fragments = simple_fragmnets + 1
+                        simple_fragments = simple_fragments + 1
                     elif number == 2:
                         print("2 simple fragments (10%)")
                         print("")
